@@ -1,16 +1,16 @@
-### Hi there 👋
+### Mark E. Anderson
+Software Engineer, Electrical Engineer, Video Game Nerd, Doctor Who Super-fan, Void-er of Warranties
 
-<!--
-**markemer/markemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My day job for the last decade or so has been iOS Application Development.
+First with [@CapitalOne](https://github.com/capitalone) and now with [@Fundrise](https://github.com/fundrise)
 
-Here are some ideas to get you started:
+#### Open Source
+I'm a committer/maintainer on [@MacPorts](https://github.com/macports)
+* [MacPorts Main Page](https://www.macports.org/)
+* [My Macports Wiki Page](https://trac.macports.org/wiki/mark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Find me on the Internets
+* http://www.emer.net
+* [@markemer on Twitter](https://www.twitter.com/markemer)
+* [LinkedIn](https://www.linkedin.com/in/markemer)
