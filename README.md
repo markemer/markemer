@@ -11,8 +11,9 @@ I'm a committer/maintainer on [@MacPorts](https://github.com/macports)
 * [MacPorts Main Page](https://www.macports.org/)
 * [My Macports Wiki Page](https://trac.macports.org/wiki/mark)
 
-
 #### Find me on the Internets
-* http://www.emer.net
+* [Personal Homepage](http://www.emer.net)
 * [@markemer on Twitter](https://www.twitter.com/markemer)
 * [LinkedIn](https://www.linkedin.com/in/markemer)
+* [Keybase](https://keybase.io/markemer)
+* [Emer Andersson](https://www.fallenlondon.com/profile/Emer%20Andersson) in [Fallen London](https://www.fallenlondon.com)
