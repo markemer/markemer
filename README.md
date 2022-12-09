@@ -2,7 +2,7 @@
 Software Engineer, Electrical Engineer, Video Game Nerd, Doctor Who Super-fan, Void-er of Warranties
 
 My day job for the last decade or so has been iOS Application Development.
-First with [@CapitalOne](https://github.com/capitalone) and now with [@Fundrise](https://github.com/fundrise)
+First with [@CapitalOne](https://github.com/capitalone) and then with [@Fundrise](https://github.com/fundrise)
 
 Once upon a time, built chips for [@IBM](https://github.com/IBM), and then handcrafted artisinal transitors at [@RPI](https://github.com/RPI)
 
