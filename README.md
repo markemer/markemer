@@ -1,13 +1,18 @@
 ### Mark E. Anderson
-Software Engineer, Electrical Engineer, Video Game Nerd, Doctor Who Super-fan, Void-er of Warranties
+Software Engineer, Electrical Engineer, Video Game Nerd, Doctor Who Super-fan, Void-er of Warranties.
 
-My day job for the last decade or so has been iOS Application Development.
-First with [@CapitalOne](https://github.com/capitalone), then with [@Fundrise](https://github.com/fundrise), and now with [@ionic-team](https://github.com/ionic-team)
+My day job for the last decade or so has been Mobile Application Development. 
 
-Once upon a time, built chips for [@IBM](https://github.com/IBM), and then handcrafted artisinal transitors at [@RPI](https://github.com/RPI)
+Now with [@ionic-team](https://github.com/ionic-team) working on [Capacitor](https://github.com/ionic-team/capacitor) and friends for [Ionic](https://ionic.io).
+
+Once upon a time, I did iOS Programming for [@CapitalOne](https://github.com/capitalone), and then [@Fundrise](https://github.com/fundrise). 
+
+Long, long ago in a galaxy far, far away, I built chips for [@IBM](https://github.com/IBM), and handcrafted artisinal transitors at [@RPI](https://github.com/RPI).
 
 #### Open Source
-I'm a committer/maintainer on [@MacPorts](https://github.com/macports)
+The fine people at [Ionic](https://ionic.io) employ me to make [Capacitor](https://github.com/ionic-team/capacitor).
+
+I'm also committer/maintainer at [@MacPorts](https://github.com/macports)
 * [MacPorts Main Page](https://www.macports.org/)
 * [My Macports Wiki Page](https://trac.macports.org/wiki/mark)
 
